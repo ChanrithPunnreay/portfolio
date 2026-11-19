@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Portfolio</title>
+</head>
+<body bgcolor="Lightblue">
+    <h2>Portfolio</h2>
+    <div align="right">
+        <a href="home">Home</a>&nbsp;&nbsp;
+        
+    </div>
+</body>
